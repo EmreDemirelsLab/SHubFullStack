@@ -1,0 +1,14 @@
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu07Donguler/obj/Debug/net10.0/Konu07Donguler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu07Donguler/obj/Debug/net10.0/Konu07Donguler.AssemblyInfoInputs.cache
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu07Donguler/obj/Debug/net10.0/Konu07Donguler.AssemblyInfo.cs
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu07Donguler/obj/Debug/net10.0/Konu07Donguler.csproj.CoreCompileInputs.cache
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu07Donguler/bin/Debug/net10.0/Konu07Donguler
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu07Donguler/bin/Debug/net10.0/Konu07Donguler.deps.json
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu07Donguler/bin/Debug/net10.0/Konu07Donguler.runtimeconfig.json
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu07Donguler/bin/Debug/net10.0/Konu07Donguler.dll
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu07Donguler/bin/Debug/net10.0/Konu07Donguler.pdb
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu07Donguler/obj/Debug/net10.0/Konu07Donguler.dll
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu07Donguler/obj/Debug/net10.0/refint/Konu07Donguler.dll
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu07Donguler/obj/Debug/net10.0/Konu07Donguler.pdb
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu07Donguler/obj/Debug/net10.0/Konu07Donguler.genruntimeconfig.cache
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu07Donguler/obj/Debug/net10.0/ref/Konu07Donguler.dll

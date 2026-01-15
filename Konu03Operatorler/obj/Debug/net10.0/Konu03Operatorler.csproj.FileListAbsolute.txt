@@ -1,0 +1,14 @@
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu03Operatorler/bin/Debug/net10.0/Konu03Operatorler
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu03Operatorler/bin/Debug/net10.0/Konu03Operatorler.deps.json
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu03Operatorler/bin/Debug/net10.0/Konu03Operatorler.runtimeconfig.json
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu03Operatorler/bin/Debug/net10.0/Konu03Operatorler.dll
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu03Operatorler/bin/Debug/net10.0/Konu03Operatorler.pdb
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu03Operatorler/obj/Debug/net10.0/Konu03Operatorler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu03Operatorler/obj/Debug/net10.0/Konu03Operatorler.AssemblyInfoInputs.cache
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu03Operatorler/obj/Debug/net10.0/Konu03Operatorler.AssemblyInfo.cs
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu03Operatorler/obj/Debug/net10.0/Konu03Operatorler.csproj.CoreCompileInputs.cache
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu03Operatorler/obj/Debug/net10.0/Konu03Operatorler.dll
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu03Operatorler/obj/Debug/net10.0/refint/Konu03Operatorler.dll
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu03Operatorler/obj/Debug/net10.0/Konu03Operatorler.pdb
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu03Operatorler/obj/Debug/net10.0/Konu03Operatorler.genruntimeconfig.cache
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu03Operatorler/obj/Debug/net10.0/ref/Konu03Operatorler.dll

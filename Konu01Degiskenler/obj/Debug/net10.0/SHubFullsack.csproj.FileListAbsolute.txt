@@ -1,0 +1,14 @@
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu01Degiskenler/bin/Debug/net10.0/SHubFullsack
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu01Degiskenler/bin/Debug/net10.0/SHubFullsack.deps.json
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu01Degiskenler/bin/Debug/net10.0/SHubFullsack.runtimeconfig.json
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu01Degiskenler/bin/Debug/net10.0/SHubFullsack.dll
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu01Degiskenler/bin/Debug/net10.0/SHubFullsack.pdb
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu01Degiskenler/obj/Debug/net10.0/SHubFullsack.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu01Degiskenler/obj/Debug/net10.0/SHubFullsack.AssemblyInfoInputs.cache
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu01Degiskenler/obj/Debug/net10.0/SHubFullsack.AssemblyInfo.cs
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu01Degiskenler/obj/Debug/net10.0/SHubFullsack.csproj.CoreCompileInputs.cache
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu01Degiskenler/obj/Debug/net10.0/SHubFullsack.dll
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu01Degiskenler/obj/Debug/net10.0/refint/SHubFullsack.dll
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu01Degiskenler/obj/Debug/net10.0/SHubFullsack.pdb
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu01Degiskenler/obj/Debug/net10.0/SHubFullsack.genruntimeconfig.cache
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu01Degiskenler/obj/Debug/net10.0/ref/SHubFullsack.dll

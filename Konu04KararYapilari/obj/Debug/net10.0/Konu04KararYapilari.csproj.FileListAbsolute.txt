@@ -1,0 +1,14 @@
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu04KararYapilari/bin/Debug/net10.0/Konu04KararYapilari
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu04KararYapilari/bin/Debug/net10.0/Konu04KararYapilari.deps.json
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu04KararYapilari/bin/Debug/net10.0/Konu04KararYapilari.runtimeconfig.json
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu04KararYapilari/bin/Debug/net10.0/Konu04KararYapilari.dll
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu04KararYapilari/bin/Debug/net10.0/Konu04KararYapilari.pdb
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu04KararYapilari/obj/Debug/net10.0/Konu04KararYapilari.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu04KararYapilari/obj/Debug/net10.0/Konu04KararYapilari.AssemblyInfoInputs.cache
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu04KararYapilari/obj/Debug/net10.0/Konu04KararYapilari.AssemblyInfo.cs
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu04KararYapilari/obj/Debug/net10.0/Konu04KararYapilari.csproj.CoreCompileInputs.cache
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu04KararYapilari/obj/Debug/net10.0/Konu04KararYapilari.dll
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu04KararYapilari/obj/Debug/net10.0/refint/Konu04KararYapilari.dll
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu04KararYapilari/obj/Debug/net10.0/Konu04KararYapilari.pdb
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu04KararYapilari/obj/Debug/net10.0/Konu04KararYapilari.genruntimeconfig.cache
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu04KararYapilari/obj/Debug/net10.0/ref/Konu04KararYapilari.dll

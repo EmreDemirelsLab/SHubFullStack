@@ -1,0 +1,98 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build Konu01Degiskenler",
+            "command": "dotnet",
+            "type": "shell",
+            "args": ["build", "${workspaceFolder}/Konu01Degiskenler/Konu01Degiskenler.csproj"],
+            "problemMatcher": "$msCompile",
+            "group": {"kind": "build"}
+        },
+        {
+            "label": "build Konu2",
+            "command": "dotnet",
+            "type": "shell",
+            "args": ["build", "${workspaceFolder}/Konu2/Konu2.csproj"],
+            "problemMatcher": "$msCompile",
+            "group": {"kind": "build"}
+        },
+        {
+            "label": "build Konu03Operatorler",
+            "command": "dotnet",
+            "type": "shell",
+            "args": ["build", "${workspaceFolder}/Konu03Operatorler/Konu03Operatorler.csproj"],
+            "problemMatcher": "$msCompile",
+            "group": {"kind": "build"}
+        },
+        {
+            "label": "build Konu04KararYapilari",
+            "command": "dotnet",
+            "type": "shell",
+            "args": ["build", "${workspaceFolder}/Konu04KararYapilari/Konu04KararYapilari.csproj"],
+            "problemMatcher": "$msCompile",
+            "group": {"kind": "build"}
+        },
+        {
+            "label": "build Konu05Metodlar",
+            "command": "dotnet",
+            "type": "shell",
+            "args": ["build", "${workspaceFolder}/Konu05Metodlar/Konu05Metodlar.csproj"],
+            "problemMatcher": "$msCompile",
+            "group": {"kind": "build"}
+        },
+        {
+            "label": "build Konu06Diziler",
+            "command": "dotnet",
+            "type": "shell",
+            "args": ["build", "${workspaceFolder}/Konu06Diziler/Konu06Diziler.csproj"],
+            "problemMatcher": "$msCompile",
+            "group": {"kind": "build"}
+        },
+        {
+            "label": "build Konu07Donguler",
+            "command": "dotnet",
+            "type": "shell",
+            "args": ["build", "${workspaceFolder}/Konu07Donguler/Konu07Donguler.csproj"],
+            "problemMatcher": "$msCompile",
+            "group": {"kind": "build"}
+        },
+        {
+            "label": "build Konu08SiniflarClasses",
+            "command": "dotnet",
+            "type": "shell",
+            "args": ["build", "${workspaceFolder}/Konu08SiniflarClasses/Konu08SiniflarClasses.csproj"],
+            "problemMatcher": "$msCompile",
+            "group": {"kind": "build"}
+        },
+        {
+            "label": "build",
+            "command": "dotnet",
+            "type": "shell",
+            "args": [
+                "build",
+                "${workspaceFolder}/Konu07Donguler/Konu07Donguler.csproj"
+            ],
+            "problemMatcher": "$msCompile",
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        },
+        {
+            "label": "run",
+            "command": "dotnet",
+            "type": "shell",
+            "args": [
+                "run",
+                "--project",
+                "${workspaceFolder}/Konu07Donguler/Konu07Donguler.csproj"
+            ],
+            "group": {
+                "kind": "test",
+                "isDefault": true
+            },
+            "dependsOn": "build"
+        }
+    ]
+}

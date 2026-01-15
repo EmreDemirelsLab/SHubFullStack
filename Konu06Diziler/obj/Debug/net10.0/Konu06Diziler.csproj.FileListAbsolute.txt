@@ -1,0 +1,14 @@
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu06Diziler/bin/Debug/net10.0/Konu06Diziler
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu06Diziler/bin/Debug/net10.0/Konu06Diziler.deps.json
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu06Diziler/bin/Debug/net10.0/Konu06Diziler.runtimeconfig.json
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu06Diziler/bin/Debug/net10.0/Konu06Diziler.dll
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu06Diziler/bin/Debug/net10.0/Konu06Diziler.pdb
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu06Diziler/obj/Debug/net10.0/Konu06Diziler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu06Diziler/obj/Debug/net10.0/Konu06Diziler.AssemblyInfoInputs.cache
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu06Diziler/obj/Debug/net10.0/Konu06Diziler.AssemblyInfo.cs
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu06Diziler/obj/Debug/net10.0/Konu06Diziler.csproj.CoreCompileInputs.cache
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu06Diziler/obj/Debug/net10.0/Konu06Diziler.dll
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu06Diziler/obj/Debug/net10.0/refint/Konu06Diziler.dll
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu06Diziler/obj/Debug/net10.0/Konu06Diziler.pdb
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu06Diziler/obj/Debug/net10.0/Konu06Diziler.genruntimeconfig.cache
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu06Diziler/obj/Debug/net10.0/ref/Konu06Diziler.dll

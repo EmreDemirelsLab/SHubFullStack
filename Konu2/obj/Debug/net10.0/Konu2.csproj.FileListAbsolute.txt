@@ -1,0 +1,14 @@
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu2/bin/Debug/net10.0/Konu2
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu2/bin/Debug/net10.0/Konu2.deps.json
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu2/bin/Debug/net10.0/Konu2.runtimeconfig.json
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu2/bin/Debug/net10.0/Konu2.dll
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu2/bin/Debug/net10.0/Konu2.pdb
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu2/obj/Debug/net10.0/Konu2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu2/obj/Debug/net10.0/Konu2.AssemblyInfoInputs.cache
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu2/obj/Debug/net10.0/Konu2.AssemblyInfo.cs
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu2/obj/Debug/net10.0/Konu2.csproj.CoreCompileInputs.cache
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu2/obj/Debug/net10.0/Konu2.dll
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu2/obj/Debug/net10.0/refint/Konu2.dll
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu2/obj/Debug/net10.0/Konu2.pdb
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu2/obj/Debug/net10.0/Konu2.genruntimeconfig.cache
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu2/obj/Debug/net10.0/ref/Konu2.dll

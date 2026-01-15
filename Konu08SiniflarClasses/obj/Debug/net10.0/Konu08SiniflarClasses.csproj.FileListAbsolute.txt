@@ -1,0 +1,14 @@
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu08SiniflarClasses/obj/Debug/net10.0/Konu08SiniflarClasses.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu08SiniflarClasses/obj/Debug/net10.0/Konu08SiniflarClasses.AssemblyInfoInputs.cache
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu08SiniflarClasses/obj/Debug/net10.0/Konu08SiniflarClasses.AssemblyInfo.cs
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu08SiniflarClasses/obj/Debug/net10.0/Konu08SiniflarClasses.csproj.CoreCompileInputs.cache
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu08SiniflarClasses/bin/Debug/net10.0/Konu08SiniflarClasses
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu08SiniflarClasses/bin/Debug/net10.0/Konu08SiniflarClasses.deps.json
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu08SiniflarClasses/bin/Debug/net10.0/Konu08SiniflarClasses.runtimeconfig.json
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu08SiniflarClasses/bin/Debug/net10.0/Konu08SiniflarClasses.dll
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu08SiniflarClasses/bin/Debug/net10.0/Konu08SiniflarClasses.pdb
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu08SiniflarClasses/obj/Debug/net10.0/Konu08SiniflarClasses.dll
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu08SiniflarClasses/obj/Debug/net10.0/refint/Konu08SiniflarClasses.dll
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu08SiniflarClasses/obj/Debug/net10.0/Konu08SiniflarClasses.pdb
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu08SiniflarClasses/obj/Debug/net10.0/Konu08SiniflarClasses.genruntimeconfig.cache
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu08SiniflarClasses/obj/Debug/net10.0/ref/Konu08SiniflarClasses.dll

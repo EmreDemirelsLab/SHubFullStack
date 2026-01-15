@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Çalıştır",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/${relativeFileDirname}/bin/Debug/net10.0/${relativeFileDirname}",
+            "args": [],
+            "cwd": "${workspaceFolder}/${relativeFileDirname}",
+            "stopAtEntry": false,
+            "console": "integratedTerminal",
+            "internalConsoleOptions": "neverOpen"
+        }
+    ]
+}

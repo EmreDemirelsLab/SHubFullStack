@@ -1,0 +1,14 @@
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu05Metodlar/bin/Debug/net10.0/Konu05Metodlar
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu05Metodlar/bin/Debug/net10.0/Konu05Metodlar.deps.json
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu05Metodlar/bin/Debug/net10.0/Konu05Metodlar.runtimeconfig.json
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu05Metodlar/bin/Debug/net10.0/Konu05Metodlar.dll
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu05Metodlar/bin/Debug/net10.0/Konu05Metodlar.pdb
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu05Metodlar/obj/Debug/net10.0/Konu05Metodlar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu05Metodlar/obj/Debug/net10.0/Konu05Metodlar.AssemblyInfoInputs.cache
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu05Metodlar/obj/Debug/net10.0/Konu05Metodlar.AssemblyInfo.cs
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu05Metodlar/obj/Debug/net10.0/Konu05Metodlar.csproj.CoreCompileInputs.cache
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu05Metodlar/obj/Debug/net10.0/Konu05Metodlar.dll
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu05Metodlar/obj/Debug/net10.0/refint/Konu05Metodlar.dll
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu05Metodlar/obj/Debug/net10.0/Konu05Metodlar.pdb
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu05Metodlar/obj/Debug/net10.0/Konu05Metodlar.genruntimeconfig.cache
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu05Metodlar/obj/Debug/net10.0/ref/Konu05Metodlar.dll
