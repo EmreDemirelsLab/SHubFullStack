@@ -1,7 +1,9 @@
 ﻿using System.Text;
 
-namespace Konu08SiniflarClasses // ; yoksa {} ile yazalıyor. ve playe basınca çalışıyor.
+namespace Konu08SiniflarClasses // ";" yoksa {} ile yazalıyor. ve playe basınca çalışıyor.
 {
+
+
     internal class Ev // Sınıf tanımlama
     {
         internal string sokakAdi;
@@ -87,6 +89,49 @@ namespace Konu08SiniflarClasses // ; yoksa {} ile yazalıyor. ve playe basınca 
             }
             
             #endregion
+
+            #region Örnek3
+            Araba araba = new()
+            {
+                Id = 1,
+                Marka = "Toyota",
+                KasaTipi = "Suv",
+                Model = "Rav4",
+                Renk = "Beyaz",
+                ModelYili = 2025
+            };
+
+            Araba araba2 = new()
+            {
+                Id = 2,
+                Marka = "Honda",
+                KasaTipi = "Sedan",
+                Model = "Civic",
+                Renk = "Siyah",
+                ModelYili = 2024
+            };
+
+            #endregion
+
+            #region Örnek 4
+            Kategori kategori = new()
+            {
+                Id = 3,
+                KategoriAdi = "Elektronik"
+            };
+            Kategori kategori2 = new()
+            {
+                Id = 4,
+                KategoriAdi = "Bilgisayar"
+            };
+            Kategori kategori3 = new()
+            {
+                Id = 5,
+                KategoriAdi = "Telefon"
+            };
+            Console.WriteLine($"Anasayfa Hakkımızda {kategori.KategoriAdi} {kategori2.KategoriAdi} {kategori3.KategoriAdi} İletişim");
+
+            #endregion
         }
 
     }
@@ -105,10 +150,10 @@ namespace Konu08SiniflarClasses // ; yoksa {} ile yazalıyor. ve playe basınca 
         internal int Id;
         internal string Marka;
         internal string Model;
-        internal int KasaTipi;
-        internal int yakitTipi;
-        internal int VitesTipi;
-        internal int Renk;
+        internal string KasaTipi;
+        internal string yakitTipi;
+        internal string VitesTipi;
+        internal string Renk;
         internal int ModelYili;
     }
 }

@@ -12,3 +12,4 @@
 /Users/mac/SkilledHub/FullStack/SHubFullStack/Konu08SiniflarClasses/obj/Debug/net10.0/Konu08SiniflarClasses.pdb
 /Users/mac/SkilledHub/FullStack/SHubFullStack/Konu08SiniflarClasses/obj/Debug/net10.0/Konu08SiniflarClasses.genruntimeconfig.cache
 /Users/mac/SkilledHub/FullStack/SHubFullStack/Konu08SiniflarClasses/obj/Debug/net10.0/ref/Konu08SiniflarClasses.dll
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu08SiniflarClasses/obj/Debug/net10.0/Konu08SiniflarClasses.sourcelink.json
