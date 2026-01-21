@@ -5,4 +5,6 @@
   <Project Path="Konu06Diziler/Konu06Diziler.csproj" />
   <Project Path="Konu07Donguler/Konu07Donguler.csproj" />
   <Project Path="Konu08SiniflarClasses/Konu08SiniflarClasses.csproj" />
+  <Project Path="Konu09StructYapilar/Konu09StructYapilar.csproj" />
+  <Project Path="Konu10StringSinifi/Konu10StringSinifi.csproj" />
 </Solution>

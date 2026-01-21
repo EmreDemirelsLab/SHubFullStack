@@ -132,6 +132,34 @@ namespace Konu08SiniflarClasses // ";" yoksa {} ile yazalıyor. ve playe basınc
             Console.WriteLine($"Anasayfa Hakkımızda {kategori.KategoriAdi} {kategori2.KategoriAdi} {kategori3.KategoriAdi} İletişim");
 
             #endregion
+
+            #region Örnek 5
+            SiniftaMetotKullanimi metotKullanimi = new(); // SiniftaMetotKullanimi classından metotKullanimi adında bir nesne oluşturduk.
+            var sonuc = metotKullanimi.LoginKontrol(kullaniciAdi, sifre); // metotKullanimi nesnesinin içindeki LoginKontrol metoduna istediği parametreleri vererek ordan dönecek bool değeri sonuc değişkenine atadık.
+            if (sonuc == true) // eğer sonuc değişkenine gelen değer true ise;
+            {
+                Console.WriteLine("Giriş Başarılı");
+                Console.WriteLine("Hoş Geldin Admin");
+            }
+            else // sonuc değişkenine gelen değer false ise;
+            {
+                Console.WriteLine("Giriş Başarısız");
+            }
+
+            var toplamasonucu = metotKullanimi.ToplamaYap(10, 8);
+            Console.WriteLine("toplama sonucu: " + toplamasonucu);
+
+            Console.WriteLine();
+
+            Console.WriteLine("Statik Değişken: " + SiniftaMetotKullanimi.StatikDegisken); // StatikDegisken in değerine ulaşmak için direk sınıfadi.StatikDegisken adı şeklinde ulaşıyoruz.
+
+            Console.WriteLine("Dinamik Değişken: " + metotKullanimi.DinamikDegisken);
+            
+
+
+
+            
+            #endregion
         }
 
     }

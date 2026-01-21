@@ -1,0 +1,15 @@
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu10StringSinifi/bin/Debug/net10.0/Konu10StringSinifi
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu10StringSinifi/bin/Debug/net10.0/Konu10StringSinifi.deps.json
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu10StringSinifi/bin/Debug/net10.0/Konu10StringSinifi.runtimeconfig.json
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu10StringSinifi/bin/Debug/net10.0/Konu10StringSinifi.dll
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu10StringSinifi/bin/Debug/net10.0/Konu10StringSinifi.pdb
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu10StringSinifi/obj/Debug/net10.0/Konu10StringSinifi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu10StringSinifi/obj/Debug/net10.0/Konu10StringSinifi.AssemblyInfoInputs.cache
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu10StringSinifi/obj/Debug/net10.0/Konu10StringSinifi.AssemblyInfo.cs
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu10StringSinifi/obj/Debug/net10.0/Konu10StringSinifi.csproj.CoreCompileInputs.cache
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu10StringSinifi/obj/Debug/net10.0/Konu10StringSinifi.sourcelink.json
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu10StringSinifi/obj/Debug/net10.0/Konu10StringSinifi.dll
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu10StringSinifi/obj/Debug/net10.0/refint/Konu10StringSinifi.dll
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu10StringSinifi/obj/Debug/net10.0/Konu10StringSinifi.pdb
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu10StringSinifi/obj/Debug/net10.0/Konu10StringSinifi.genruntimeconfig.cache
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu10StringSinifi/obj/Debug/net10.0/ref/Konu10StringSinifi.dll
