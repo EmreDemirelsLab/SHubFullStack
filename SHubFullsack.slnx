@@ -7,4 +7,8 @@
   <Project Path="Konu08SiniflarClasses/Konu08SiniflarClasses.csproj" />
   <Project Path="Konu09StructYapilar/Konu09StructYapilar.csproj" />
   <Project Path="Konu10StringSinifi/Konu10StringSinifi.csproj" />
+  <Project Path="Konu11Enumlar/Konu11Enumlar.csproj" />
+  <Project Path="Konu12KalitimInheritance/Konu12KalitimInheritance.csproj" />
+  <Project Path="Konu13KapsullemeEncapsulation/Konu13KapsullemeEncapsulation.csproj" />
+  <Project Path="Konu14InterfacesArayuzler/Konu14InterfacesArayuzler.csproj" />
 </Solution>

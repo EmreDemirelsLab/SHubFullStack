@@ -1,0 +1,15 @@
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu12KalitimInheritance/bin/Debug/net10.0/Konu12KalitimInheritance
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu12KalitimInheritance/bin/Debug/net10.0/Konu12KalitimInheritance.deps.json
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu12KalitimInheritance/bin/Debug/net10.0/Konu12KalitimInheritance.runtimeconfig.json
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu12KalitimInheritance/bin/Debug/net10.0/Konu12KalitimInheritance.dll
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu12KalitimInheritance/bin/Debug/net10.0/Konu12KalitimInheritance.pdb
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu12KalitimInheritance/obj/Debug/net10.0/Konu12KalitimInheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu12KalitimInheritance/obj/Debug/net10.0/Konu12KalitimInheritance.AssemblyInfoInputs.cache
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu12KalitimInheritance/obj/Debug/net10.0/Konu12KalitimInheritance.AssemblyInfo.cs
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu12KalitimInheritance/obj/Debug/net10.0/Konu12KalitimInheritance.csproj.CoreCompileInputs.cache
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu12KalitimInheritance/obj/Debug/net10.0/Konu12KalitimInheritance.sourcelink.json
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu12KalitimInheritance/obj/Debug/net10.0/Konu12KalitimInheritance.dll
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu12KalitimInheritance/obj/Debug/net10.0/refint/Konu12KalitimInheritance.dll
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu12KalitimInheritance/obj/Debug/net10.0/Konu12KalitimInheritance.pdb
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu12KalitimInheritance/obj/Debug/net10.0/Konu12KalitimInheritance.genruntimeconfig.cache
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu12KalitimInheritance/obj/Debug/net10.0/ref/Konu12KalitimInheritance.dll

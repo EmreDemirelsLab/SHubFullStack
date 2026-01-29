@@ -1,0 +1,15 @@
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu11Enumlar/bin/Debug/net10.0/Konu11Enumlar
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu11Enumlar/bin/Debug/net10.0/Konu11Enumlar.deps.json
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu11Enumlar/bin/Debug/net10.0/Konu11Enumlar.runtimeconfig.json
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu11Enumlar/bin/Debug/net10.0/Konu11Enumlar.dll
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu11Enumlar/bin/Debug/net10.0/Konu11Enumlar.pdb
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu11Enumlar/obj/Debug/net10.0/Konu11Enumlar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu11Enumlar/obj/Debug/net10.0/Konu11Enumlar.AssemblyInfoInputs.cache
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu11Enumlar/obj/Debug/net10.0/Konu11Enumlar.AssemblyInfo.cs
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu11Enumlar/obj/Debug/net10.0/Konu11Enumlar.csproj.CoreCompileInputs.cache
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu11Enumlar/obj/Debug/net10.0/Konu11Enumlar.sourcelink.json
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu11Enumlar/obj/Debug/net10.0/Konu11Enumlar.dll
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu11Enumlar/obj/Debug/net10.0/refint/Konu11Enumlar.dll
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu11Enumlar/obj/Debug/net10.0/Konu11Enumlar.pdb
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu11Enumlar/obj/Debug/net10.0/Konu11Enumlar.genruntimeconfig.cache
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu11Enumlar/obj/Debug/net10.0/ref/Konu11Enumlar.dll

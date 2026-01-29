@@ -1,0 +1,15 @@
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu13KapsullemeEncapsulation/bin/Debug/net10.0/Konu13KapsullemeEncapsulation
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu13KapsullemeEncapsulation/bin/Debug/net10.0/Konu13KapsullemeEncapsulation.deps.json
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu13KapsullemeEncapsulation/bin/Debug/net10.0/Konu13KapsullemeEncapsulation.runtimeconfig.json
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu13KapsullemeEncapsulation/bin/Debug/net10.0/Konu13KapsullemeEncapsulation.dll
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu13KapsullemeEncapsulation/bin/Debug/net10.0/Konu13KapsullemeEncapsulation.pdb
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu13KapsullemeEncapsulation/obj/Debug/net10.0/Konu13KapsullemeEncapsulation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu13KapsullemeEncapsulation/obj/Debug/net10.0/Konu13KapsullemeEncapsulation.AssemblyInfoInputs.cache
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu13KapsullemeEncapsulation/obj/Debug/net10.0/Konu13KapsullemeEncapsulation.AssemblyInfo.cs
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu13KapsullemeEncapsulation/obj/Debug/net10.0/Konu13KapsullemeEncapsulation.csproj.CoreCompileInputs.cache
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu13KapsullemeEncapsulation/obj/Debug/net10.0/Konu13KapsullemeEncapsulation.sourcelink.json
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu13KapsullemeEncapsulation/obj/Debug/net10.0/Konu13KapsullemeEncapsulation.dll
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu13KapsullemeEncapsulation/obj/Debug/net10.0/refint/Konu13KapsullemeEncapsulation.dll
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu13KapsullemeEncapsulation/obj/Debug/net10.0/Konu13KapsullemeEncapsulation.pdb
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu13KapsullemeEncapsulation/obj/Debug/net10.0/Konu13KapsullemeEncapsulation.genruntimeconfig.cache
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu13KapsullemeEncapsulation/obj/Debug/net10.0/ref/Konu13KapsullemeEncapsulation.dll
