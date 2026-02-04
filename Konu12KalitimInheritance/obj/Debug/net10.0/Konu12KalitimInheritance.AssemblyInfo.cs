@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Konu12KalitimInheritance")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5946b59d0eb4b97b7d1b382b6b0340bb18dafd88")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c1f6ab54d8c6ff0772b2bfb772bc14edcd3ecc1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Konu12KalitimInheritance")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Konu12KalitimInheritance")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

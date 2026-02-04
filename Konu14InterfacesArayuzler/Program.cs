@@ -50,5 +50,26 @@ class Program
         arayuz.Topla();
         arayuz.Goster();
         Console.WriteLine("Toplama sonucu: " + arayuz.ToplamaYap());
+
+        System.Console.WriteLine();
+
+        Kategori kategori = new Kategori()
+        {
+            Id = 1, Name = "Elektronik", IsActive = true
+        };
+
+        System.Console.WriteLine("Kategori");
+        System.Console.WriteLine(kategori.Name);
+
+        System.Console.WriteLine();
+
+        Urun urun = new Urun()
+        {
+            Id = 1, Name = "Ayfoning Çift Sim Cep Telefonu", IsActive = true, Price = 18000
+        };
+
+        System.Console.WriteLine("Ürün Bilgileri");
+        System.Console.WriteLine(urun.Name);
+        System.Console.WriteLine(urun.Price + "TL");
     }
 }

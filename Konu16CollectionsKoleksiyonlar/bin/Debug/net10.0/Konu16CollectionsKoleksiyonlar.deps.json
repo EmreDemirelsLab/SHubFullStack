@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Konu16CollectionsKoleksiyonlar/1.0.0": {
+        "runtime": {
+          "Konu16CollectionsKoleksiyonlar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Konu16CollectionsKoleksiyonlar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

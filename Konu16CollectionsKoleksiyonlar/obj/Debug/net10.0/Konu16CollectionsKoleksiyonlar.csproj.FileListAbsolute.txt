@@ -1,0 +1,15 @@
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu16CollectionsKoleksiyonlar/bin/Debug/net10.0/Konu16CollectionsKoleksiyonlar
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu16CollectionsKoleksiyonlar/bin/Debug/net10.0/Konu16CollectionsKoleksiyonlar.deps.json
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu16CollectionsKoleksiyonlar/bin/Debug/net10.0/Konu16CollectionsKoleksiyonlar.runtimeconfig.json
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu16CollectionsKoleksiyonlar/bin/Debug/net10.0/Konu16CollectionsKoleksiyonlar.dll
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu16CollectionsKoleksiyonlar/bin/Debug/net10.0/Konu16CollectionsKoleksiyonlar.pdb
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu16CollectionsKoleksiyonlar/obj/Debug/net10.0/Konu16CollectionsKoleksiyonlar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu16CollectionsKoleksiyonlar/obj/Debug/net10.0/Konu16CollectionsKoleksiyonlar.AssemblyInfoInputs.cache
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu16CollectionsKoleksiyonlar/obj/Debug/net10.0/Konu16CollectionsKoleksiyonlar.AssemblyInfo.cs
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu16CollectionsKoleksiyonlar/obj/Debug/net10.0/Konu16CollectionsKoleksiyonlar.csproj.CoreCompileInputs.cache
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu16CollectionsKoleksiyonlar/obj/Debug/net10.0/Konu16CollectionsKoleksiyonlar.sourcelink.json
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu16CollectionsKoleksiyonlar/obj/Debug/net10.0/Konu16CollectionsKoleksiyonlar.dll
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu16CollectionsKoleksiyonlar/obj/Debug/net10.0/refint/Konu16CollectionsKoleksiyonlar.dll
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu16CollectionsKoleksiyonlar/obj/Debug/net10.0/Konu16CollectionsKoleksiyonlar.pdb
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu16CollectionsKoleksiyonlar/obj/Debug/net10.0/Konu16CollectionsKoleksiyonlar.genruntimeconfig.cache
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu16CollectionsKoleksiyonlar/obj/Debug/net10.0/ref/Konu16CollectionsKoleksiyonlar.dll

@@ -1,0 +1,15 @@
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu15AbstractClasses/bin/Debug/net10.0/Konu15AbstractClasses
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu15AbstractClasses/bin/Debug/net10.0/Konu15AbstractClasses.deps.json
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu15AbstractClasses/bin/Debug/net10.0/Konu15AbstractClasses.runtimeconfig.json
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu15AbstractClasses/bin/Debug/net10.0/Konu15AbstractClasses.dll
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu15AbstractClasses/bin/Debug/net10.0/Konu15AbstractClasses.pdb
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu15AbstractClasses/obj/Debug/net10.0/Konu15AbstractClasses.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu15AbstractClasses/obj/Debug/net10.0/Konu15AbstractClasses.AssemblyInfoInputs.cache
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu15AbstractClasses/obj/Debug/net10.0/Konu15AbstractClasses.AssemblyInfo.cs
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu15AbstractClasses/obj/Debug/net10.0/Konu15AbstractClasses.csproj.CoreCompileInputs.cache
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu15AbstractClasses/obj/Debug/net10.0/Konu15AbstractClasses.sourcelink.json
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu15AbstractClasses/obj/Debug/net10.0/Konu15AbstractClasses.dll
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu15AbstractClasses/obj/Debug/net10.0/refint/Konu15AbstractClasses.dll
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu15AbstractClasses/obj/Debug/net10.0/Konu15AbstractClasses.pdb
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu15AbstractClasses/obj/Debug/net10.0/Konu15AbstractClasses.genruntimeconfig.cache
+/Users/mac/SkilledHub/FullStack/SHubFullStack/Konu15AbstractClasses/obj/Debug/net10.0/ref/Konu15AbstractClasses.dll

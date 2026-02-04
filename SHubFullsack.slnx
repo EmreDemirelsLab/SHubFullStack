@@ -11,4 +11,6 @@
   <Project Path="Konu12KalitimInheritance/Konu12KalitimInheritance.csproj" />
   <Project Path="Konu13KapsullemeEncapsulation/Konu13KapsullemeEncapsulation.csproj" />
   <Project Path="Konu14InterfacesArayuzler/Konu14InterfacesArayuzler.csproj" />
+  <Project Path="Konu15AbstractClasses/Konu15AbstractClasses.csproj" />
+  <Project Path="Konu16CollectionsKoleksiyonlar/Konu16CollectionsKoleksiyonlar.csproj" />
 </Solution>
