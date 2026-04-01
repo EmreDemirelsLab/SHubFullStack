@@ -48,7 +48,7 @@ namespace WindowsFormsAppAdoNetCRUD
             {
                 Name = txtKategoriAdi.Text,
                 Description = txtAciklama.Text,
-                IsActive = true,
+                IsActive = cbDurum.Checked,
                 CreateDate = DateTime.Now
             };
             var sonuc = dal.Add(kategori);

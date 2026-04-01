@@ -15,6 +15,9 @@ namespace WindowsFormsAppAdoNetCRUD
             command.Parameters.AddWithValue("@IsActive", category.IsActive);
             command.Parameters.AddWithValue("@CreateDate", category.CreateDate);
             sonuc = command.ExecuteNonQuery(); // sonuc değişkenine sql de etkilenen kayıt sayısını ata.
+            command.Dispose();
+            _connection.Close();
+
             return sonuc;
         }
         public int Update(Category category)
@@ -28,6 +31,9 @@ namespace WindowsFormsAppAdoNetCRUD
             command.Parameters.AddWithValue("@IsActive", category.IsActive);
             command.Parameters.AddWithValue("@CreateDate", category.CreateDate);
             sonuc = command.ExecuteNonQuery(); // sonuc değişkenine sql de etkilenen kayıt sayısını ata.
+            command.Dispose();
+            _connection.Close();
+
             return sonuc;
         }
         public int Delete(Category category)
@@ -37,6 +43,9 @@ namespace WindowsFormsAppAdoNetCRUD
             var command = new SqlCommand("delete from categories where Id=@Id", _connection);
             command.Parameters.AddWithValue("@Id", category.Id);
             sonuc = command.ExecuteNonQuery(); // sonuc değişkenine sql de etkilenen kayıt sayısını ata.
+            command.Dispose();
+            _connection.Close();
+
             return sonuc;
         }
     }
