@@ -59,7 +59,7 @@
             this.label1.Size = new System.Drawing.Size(94, 13);
             this.label1.TabIndex = 0;
             this.label1.Text = "Kullanıcı Adı/Email";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
+            
             // 
             // label2
             // 
@@ -84,7 +84,7 @@
             this.txtSifre.Name = "txtSifre";
             this.txtSifre.Size = new System.Drawing.Size(100, 20);
             this.txtSifre.TabIndex = 1;
-            this.txtSifre.TextChanged += new System.EventHandler(this.textBox2_TextChanged);
+            
             // 
             // btngiris
             // 

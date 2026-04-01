@@ -22,20 +22,14 @@ namespace WindowsFormsAppAdoNetCRUD
 
         }
 
-        private void textBox2_TextChanged(object sender, EventArgs e)
-        {
-
-        }
+        
 
         private void txtKullaniciAdi_TextChanged(object sender, EventArgs e)
         {
 
         }
 
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
+      
 
         private void btngiris_Click(object sender, EventArgs e)
         {
